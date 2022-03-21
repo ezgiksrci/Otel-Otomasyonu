@@ -1,0 +1,36 @@
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\Kiraz Cicegi Otel.exe.config
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\Kiraz Cicegi Otel.exe
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\Kiraz Cicegi Otel.pdb
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.csprojAssemblyReference.cache
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.Form1.resources
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.Properties.Resources.resources
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.csproj.GenerateResource.cache
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.csproj.CoreCompileInputs.cache
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.exe
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.pdb
+C:\Users\ezgik\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmYeniMusteri.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\Kiraz Cicegi Otel.exe.config
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\Kiraz Cicegi Otel.exe
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\Kiraz Cicegi Otel.pdb
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.csprojAssemblyReference.cache
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmYeniMusteri.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.Properties.Resources.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.csproj.GenerateResource.cache
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.exe
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.pdb
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmAdminGiris.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmAnaForm.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmOdalar.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmMusteriler.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmGelir_Gider.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmGiderler.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz Cicegi Otel.csproj.ResolveComReference.cache
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmRadyo.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmGazete.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmAdminBilgiGuncelle.resources
+C:\Users\Ezgi\Desktop\source\repos\Kiraz Cicegi Otel\Kiraz Cicegi Otel\obj\Debug\Kiraz_Cicegi_Otel.FrmMusteriMesajlari.resources
